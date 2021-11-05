@@ -20,7 +20,7 @@
   <div>
     <a href = "mailto:gbalbino098@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=green">
     </a>
-     <a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank">
+     <a href="https://www.linkedin.com/in/gabriel-balbino-camargo-de-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank">
   </a>
     
 ![Snake animation](https://github.com/Balb1no/Balb1no/blob/output/github-contribution-grid-snake.svg)
